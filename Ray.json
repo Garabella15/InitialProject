@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ogundu",
+    "Job Title": "Data and Analytics Engineer",
+    "Salary": "30,000",
+    "Cars": [
+      "Bmw",
+      "Mercedes benz",
+      "Audi"
+    ]
+  },
+  {
+    "name": "Ogundu",
+    "Job Title": "Associate Professor of Law",
+    "Salary": "50,000",
+    "Cars": "Audi"
+  }
+]
